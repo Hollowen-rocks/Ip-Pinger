@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "7KAMYjbsoeKzax0k50/VDKxICBPy5FuDJy4DXwNnjJaNP/fjLGIjWbhlOjrousV1pROsuDeY+jUGtUfjIst8tg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Ethan\\Downloads\\IPPINGER\\IPPINGER\\IPPINGER.fsproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Ethan\\.nuget\\packages\\fsharp.core\\8.0.101\\fsharp.core.8.0.101.nupkg.sha512"
+  ],
+  "logs": []
+}
